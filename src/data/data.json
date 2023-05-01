@@ -1,0 +1,104 @@
+[
+    {
+        "id":"1",
+        "name":"Final project",
+        "skills": ["JavaScript","Firebase","NodeJS","HTML","CSS", "Express"],
+        "cover": "",
+        "website":"",
+        "about": ""
+    }
+    ,
+    {
+        "id":"2",
+        "name":"Much TODO",
+        "skills": ["JavaScript","Firebase","NodeJS","HTML","CSS", "Express"],
+        "cover": "https://github.com/milasandovals/much-todo-web/raw/main/public/images/screen.png",
+        "website":"https://much-todo-cs.web.app",
+        "about": "Full stack app where users can add, modify and delete tasks. Counts with login, sign up and authentication"
+    }
+    ,
+    {
+        "id":"3",
+        "name":"Recipes App",
+        "skills": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "https://github.com/milasandovals/recipes-app/raw/main/public/images/screen.png",
+        "website":"https://milasandovals.github.io/recipes-app/",
+        "about": ""
+    }
+    ,
+    {
+        "id":"4",
+        "name":"Quiz App",
+        "skills": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "https://github.com/milasandovals/quiz-app/raw/main/public/images/screen.png",
+        "website":"https://quiz-app-camila.web.app",
+        "about": ""
+    }
+    ,
+    {
+        "id":"5",
+        "name":"ChatGPT Therapist",
+        "skills": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "https://github.com/milasandovals/chatgpt-web-app/raw/main/public/images/screen2.png",
+        "website":"https://cdn0.recetasgratis.net/es/posts/9/3/1/brocoli_salteado_con_jamon_64139_orig.jpg",
+        "about": ""
+    }
+    ,
+    {
+        "id":"6",
+        "name":"Live Clock",
+        "skills": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "https://github.com/milasandovals/bluenight-in-seoul-clock/raw/main/src/images/screen.png",
+        "website":"https://cdn0.recetasgratis.net/es/posts/9/3/1/brocoli_salteado_con_jamon_64139_orig.jpg",
+        "about": ""
+    },
+    {
+        "id":"7",
+        "name":"Finct",
+        "skills": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "",
+        "website":"https://cdn0.recetasgratis.net/es/posts/9/3/1/brocoli_salteado_con_jamon_64139_orig.jpg",
+        "about": ""
+    },
+    {
+        "id":"8",
+        "name":"Musician Portfolio",
+        "skills": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "https://github.com/milasandovals/bass-player-web-portfolio/blob/main/src/images/screen1.png?raw=true",
+        "website":"https://milasandovals.github.io/bass-player-web-portfolio/",
+        "about": ""
+    },
+    {
+        "id":"9",
+        "name":"Codice de Boca",
+        "skill": ["Broccoli","Garlic","butter","pepper","salt","rosemary", "olive oil"],
+        "cover": "https://github.com/milasandovals/js-codice-boca/raw/main/assets/readme.png",
+        "website":"https://codice-boca-cs.web.app",
+        "about": ""
+    },
+    {
+        "id":"10",
+        "name":"Wine Catalog",
+        "skill": ["JavaScript","HTML", "React"],
+        "cover": "https://user-images.githubusercontent.com/83136741/232942198-d80a603d-7558-44f1-99f3-e39a55707feb.png",
+        "website":"https://wine-list-cs.web.app",
+        "about": ""
+    },
+    {
+        "id":"11",
+        "name":"Counter App",
+        "skill": ["JavaScript","HTML","CSS", "React"],
+        "cover": "https://user-images.githubusercontent.com/83136741/232336067-1c404508-1d81-4f1c-8ab4-1d2618ed26df.png",
+        "website":"https://milasandovals.github.io/react-counter-app/",
+        "about": ""
+    },    
+    {
+        "id":"12",
+        "name":"Kardashev Scale",
+        "skill": ["HTML","CSS"],
+        "cover": "https://github.com/milasandovals/kardashev-scale/raw/main/src/images/readme.png",
+        "website":"https://milasandovals.github.io/kardashev-scale/",
+        "about": ""
+    }
+
+]
